@@ -1,10 +1,12 @@
 ### Hi there 👋 Welcome to Strugz's Profile
 
-I build software projects using **Visual Basic .NET**, **Vue.js**, **C#**, and I’m currently learning **Flutter & Dart**.
+I build software projects using **Flutter**, **Dart**, **Vue.js**, **C#**, and **Visual Basic .NET**.
 
-### 🚀 Latest Projects I've Modified
-- **[fwmsfrontend](https://github.com/strugz/fwmsfrontend)** – Vue-based frontend project for field/workflow management features
-- **[ersystemthreepointzero](https://github.com/strugz/ersystemthreepointzero)** – ER System 3.0
+### 🚀 Project Summaries
+- **[mdmpi_mobile_app](https://github.com/strugz/mdmpi_mobile_app)** – A Flutter/Dart mobile application project with native platform integration, focused on mobile app development for MDMPI workflows.
+- **[RF-Follow-Up-Tracker](https://github.com/strugz/RF-Follow-Up-Tracker)** – A C# and Vue-based tracking system for managing RF follow-up workflows with database-backed process handling.
+- **[fwms](https://github.com/strugz/fwms)** – A Vue and C# project for workflow or field work management, combining frontend interfaces with backend application logic.
+- **[MDMPI.App](https://github.com/strugz/MDMPI.App)** – A C# application project built for MDMPI-related business processes and internal system workflows.
 
 ### 🌱 Currently Learning
 - Flutter and Dart
