@@ -1,11 +1,18 @@
-### Hi there 👋 Welome to Strugz's Profile
+### Hi there 👋 Welcome to Strugz's Profile
 
-**strugz/strugz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software projects using **Visual Basic .NET**, **Vue.js**, **C#**, and I’m currently learning **Flutter & Dart**.
 
-Here are some ideas to get you started:
+### 🚀 My Projects
+- **[ersystemthreepointzero](https://github.com/strugz/ersystemthreepointzero)** – ER System 3.0
+- **[fwmsfrontend](https://github.com/strugz/fwmsfrontend)** – Vue-based frontend project for field/workflow management features
+- **[ersystemservice](https://github.com/strugz/ersystemservice)** – Visual Basic .NET service project for the ER system
+- **[TCPIPConnector](https://github.com/strugz/TCPIPConnector)** – C# TCP/IP connector utility
 
-### 🔭 I’m currently working on Marsman Drysdale Medical Product Inc.
-### 🌱 I’m currently learning Flutter Dart. 
-### 🤔 I’m looking for Job that is work from home.
-- 📫 How to reach me: 09470467899
-### ⚡ Fun fact: 9 years in programming but never been in a developing company.
+### 🌱 Currently Learning
+- Flutter and Dart
+
+### 💼 Open to Work
+- I’m looking for a **work-from-home software development opportunity**.
+
+### ⚡ Fun Fact
+- I’ve been programming for **9 years** and continue building real-world systems while growing my professional experience.
