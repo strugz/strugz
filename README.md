@@ -2,11 +2,9 @@
 
 I build software projects using **Visual Basic .NET**, **Vue.js**, **C#**, and I’m currently learning **Flutter & Dart**.
 
-### 🚀 My Projects
-- **[ersystemthreepointzero](https://github.com/strugz/ersystemthreepointzero)** – ER System 3.0
+### 🚀 Latest Projects I've Modified
 - **[fwmsfrontend](https://github.com/strugz/fwmsfrontend)** – Vue-based frontend project for field/workflow management features
-- **[ersystemservice](https://github.com/strugz/ersystemservice)** – Visual Basic .NET service project for the ER system
-- **[TCPIPConnector](https://github.com/strugz/TCPIPConnector)** – C# TCP/IP connector utility
+- **[ersystemthreepointzero](https://github.com/strugz/ersystemthreepointzero)** – ER System 3.0
 
 ### 🌱 Currently Learning
 - Flutter and Dart
