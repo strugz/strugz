@@ -16,4 +16,4 @@ I build software projects using **Flutter**, **Dart**, **Vue.js**, **C#**, and *
 - abaoagjay@gmail.com
 
 ### ⚡ Fun Fact
-- I’ve been programming for **9 years** and continue building real-world systems while growing my professional experience.
+- I’ve been programming for **12 years** and continue building real-world systems while growing my professional experience.
